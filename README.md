@@ -1,2 +1,2 @@
 # Pizza-Calculator
-Group assignment solved by the whole knights named: Nicholas, Peter and Martin,
+Group assignment solved by the holy knights named: Nicolas, Peter and Martin,
